@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GH7GndYFZkDf9M4WozBLXTznMJWFc8Gn/zCg3Fq5XKI=",
+  "Source": "RedisCacheSample.Api",
+  "BasePath": "_content/RedisCacheSample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
